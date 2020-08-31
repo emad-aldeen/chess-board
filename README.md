@@ -1,3 +1,5 @@
+# Chess Board
+
 <br>
 
 ## Estimate of time needed to complete: 1 h
